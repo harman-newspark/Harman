@@ -12,6 +12,8 @@ use PayPal\Api\Payer;
 use PayPal\Api\Payment;
 use PayPal\Api\Transaction;
 
+//changed by hamrn-in-new-feature branch
+
 //if (isset($_REQUEST['name'])) {
 //
 //    $name = strip_tags($_REQUEST['name']);
